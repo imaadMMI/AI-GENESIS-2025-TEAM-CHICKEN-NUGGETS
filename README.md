@@ -3,6 +3,13 @@
 ## Overview
 ProcurePilot is an Opus workflow that automates vendor shortlisting and selection across industries. It turns noisy requirements + CSV vendor data into a ranked, audited recommendation using the **Intake → Understand → Decide → Review → Deliver** pattern.
 
+## Access the workflow at:
+https://app.opus.com/app/workflow/share/c33c50ac-6d26-46ef-9360-8a3916a22017
+
+## Make sure to configure these before you start your workflow:
+1. Insert one industry CSV and one industry requirements doc in workflow input
+2. Generate an API key from LangSearch | Free Web Search API, Free Rerank API. The World Engine For AGI. And insert it a Bearer Auth in the External Service.
+
 ---
 
 ## Inputs
